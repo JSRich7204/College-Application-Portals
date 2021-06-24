@@ -1,6 +1,7 @@
 body{
     background-image: url(https://codehs.com/uploads/ea6b066dfd3f972b70ec9519e74cc398);
     font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
 }
 
 .tab {
